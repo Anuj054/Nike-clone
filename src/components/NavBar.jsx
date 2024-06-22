@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { UseDispatch, useDispatch  } from "react-redux";
+import {  useDispatch  } from "react-redux";
 import {
   MagnifyingGlassIcon,
   HeartIcon,
