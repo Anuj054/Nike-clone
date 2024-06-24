@@ -38,7 +38,7 @@
  <section id="installation">
             <h2>Installation</h2>
             <p>Follow these steps to set up the project locally:</p>
-            <pre><code>git clone https://github.com/your-username/nike-clone.git
+            <pre><code>git clone https://github.com/Anuj054/Nike-clone.git
 cd nike-clone
 npm install
 npm start</code></pre>
