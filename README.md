@@ -70,7 +70,7 @@
             <p>Welcome to the Nike Clone project! This is a web application built using React, Redux, and Tailwind CSS that replicates the core functionalities of an e-commerce site, specifically focusing on product listings and cart management. Users can browse products, add them to the cart, and update the cart's contents.</p>
         </section>
 
-        <section id="features">
+<section id="features">
             <h2>Features</h2>
             <ul>
                 <li><strong>Product Listing</strong>: Browse through a variety of products with detailed information.</li>
@@ -78,8 +78,7 @@
                 <li><strong>Responsive Design</strong>: Fully responsive design using Tailwind CSS for an optimal viewing experience on all devices.</li>
             </ul>
         </section>
-
-        <section id="technologies-used">
+ <section id="technologies-used">
             <h2>Technologies Used</h2>
             <ul>
                 <li><strong>React</strong>: A JavaScript library for building user interfaces.</li>
@@ -88,7 +87,7 @@
             </ul>
         </section>
 
-        <section id="installation">
+ <section id="installation">
             <h2>Installation</h2>
             <p>Follow these steps to set up the project locally:</p>
             <pre><code>git clone https://github.com/your-username/nike-clone.git
@@ -98,15 +97,15 @@ npm start</code></pre>
             <p>The application should now be running on <code>http://localhost:3000</code>.</p>
         </section>
 
-        <section id="usage">
-            <h2>Usage</h2>
+<section id="usage">
+         <h2>Usage</h2>
             <h3>Adding Products to Cart</h3>
             <p>Navigate to the product listing page. Click on the desired product to view its details. Click the "Add to Cart" button to add the product to your cart.</p>
             <h3>Updating Cart</h3>
             <p>Click on the cart icon to view your cart. Update the quantity of any product or remove it from the cart. The total price will update accordingly.</p>
         </section>
 
-        <section id="folder-structure">
+ <section id="folder-structure">
             <h2>Folder Structure</h2>
             <pre><code>nike-clone/
 ├── public/
@@ -138,8 +137,7 @@ npm start</code></pre>
 ├── package.json
 └── README.md</code></pre>
         </section>
-
-        <section id="contributing">
+ <section id="contributing">
             <h2>Contributing</h2>
             <p>Contributions are welcome! Please follow these steps to contribute:</p>
             <ol>
@@ -152,7 +150,7 @@ npm start</code></pre>
             </ol>
         </section>
 
-        <section id="license">
+  <section id="license">
             <h2>License</h2>
             <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p>
         </section>
