@@ -60,26 +60,17 @@ npm start</code></pre>
 │   ├── index.html
 │   └── ...
 ├── src/
-│   ├── assets/
+│   ├──app/
+│   │   ├── CartSlice.js
+│   │   ├── Store.js
+│   ├── assets
 │   ├── components/
-│   │   ├── CartItem.js
-│   │   ├── Header.js
-│   │   ├── Product.js
+│   │   ├── Cart
+│   │   ├── Utils
+│   │   ├── Cart.jsx
 │   │   └── ...
-│   ├── pages/
-│   │   ├── CartPage.js
-│   │   ├── HomePage.js
-│   │   └── ...
-│   ├── redux/
-│   │   ├── actions/
-│   │   │   ├── cartActions.js
-│   │   │   └── productActions.js
-│   │   ├── reducers/
-│   │   │   ├── cartReducer.js
-│   │   │   └── productReducer.js
-│   │   └── store.js
-│   ├── App.js
-│   ├── index.js
+│   ├── App.jsx
+│   ├── index.jsx
 │   └── ...
 ├── tailwind.config.js
 ├── package.json
